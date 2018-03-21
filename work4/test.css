@@ -1,0 +1,30 @@
+div.tab{    
+    font-size: 14px;
+    font-weight: bold;
+    color: #727272;
+    float: left;
+    padding-left : 12px;
+    padding-right: 12px;
+    padding-top : 14px;
+    padding-bottom : 14px;
+
+}
+div.tab.selected{
+    font-size: 14px;
+    color: #829c00;
+    border-bottom-width:3px;
+    border-bottom-color:#829c00;
+    border-bottom-style : solid;
+}
+
+.naver_logo {
+    display: block;
+    overflow: hidden;
+    width: 202px;
+    height: 57px;
+    background-position: 0 0;
+    text-indent: 101%;
+    white-space: nowrap;
+        background-image: url(https://s.pstatic.net/static/www/img/2017/sp_main_v171220.png);
+    background-repeat: no-repeat;
+}
